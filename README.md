@@ -8,8 +8,6 @@
 - 💼 LinkedIn: [linkedin.com/in/rowida-hussein-23032004ro](https://www.linkedin.com/in/rowida-hussein-23032004ro)
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I enjoy solving UI challenges and turning complex ideas into elegant web designs!**
-- ✅ [Schoola](https://github.com/7Hassan/Schoola)
-- ✅ [Masroofati](https://github.com/7Hassan/Masroofati)
 
 ---
 
@@ -39,6 +37,28 @@
 </p>
 
 ---
+---
+
+### 📈 GitHub Activity Overview
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/rowidahussein65" alt="GitHub Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rowidahussein65&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowidahussein65&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rowidahussein65" />
+</p>
+
+---
+
 
 ### 🔗 Connect with me:
 
