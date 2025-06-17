@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on **creative and impactful web projects**, especially in healthcare and self-development
 - 📫 How to reach me: **rowidahussein@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/rowida-hussein-23032004ro](https://www.linkedin.com/in/rowida-hussein-23032004ro)
+- 🌐 <strong>Portfolio:</strong> <a href="https://rowidahussein65.github.io/Update_myPortfolio/">rowidahussein65.github.io/Update_myPortfolio</a>
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I enjoy solving UI challenges and turning complex ideas into elegant web designs!**
 
