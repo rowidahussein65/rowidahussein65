@@ -8,6 +8,8 @@
 - 💼 LinkedIn: [linkedin.com/in/rowida-hussein-23032004ro](https://www.linkedin.com/in/rowida-hussein-23032004ro)
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I enjoy solving UI challenges and turning complex ideas into elegant web designs!**
+- ✅ [Schoola](https://github.com/7Hassan/Schoola)
+- ✅ [Masroofati](https://github.com/7Hassan/Masroofati)
 
 ---
 
