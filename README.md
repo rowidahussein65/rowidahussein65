@@ -43,6 +43,10 @@
       <span style="font-weight:bold; background: linear-gradient(90deg, #8993be, #4f5b93); -webkit-background-clip: text; color: transparent;">PHP</span>
     </td>
     <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/><br/>
+  <span style="font-weight:bold; background: linear-gradient(90deg, #9b4f96, #68217a); -webkit-background-clip: text; color: transparent;">C#</span>
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/><br/>
       <span style="font-weight:bold; background: linear-gradient(90deg, #02569B, #44D1FD); -webkit-background-clip: text; color: transparent;">Flutter</span>
     </td>
