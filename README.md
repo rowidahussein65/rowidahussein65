@@ -38,16 +38,9 @@
     </td>
      <!-- Tailwind CSS -->
   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-         width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-    <br/>
-    <span style="font-weight:bold;
-                 background: linear-gradient(90deg, #06b6d4, #7c3aed);
-                 -webkit-background-clip: text;
-                 color: transparent;">
-      Tailwind
-    </span>
-  </td>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/><br/>
+      <span style="font-weight:bold; background: linear-gradient(90deg, #38bdf8, #0ea5e9); -webkit-background-clip: text; color: transparent;">Tailwind CSS</span>
+    </td>
   </tr>
   <!-- Sass -->
   <td align="center">
