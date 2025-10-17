@@ -81,6 +81,73 @@
       <span style="font-weight:bold; background: linear-gradient(90deg, #f34f29, #e44d26); -webkit-background-clip: text; color: transparent;">Git</span>
     </td>
   </tr>
+  <tr>
+  <!-- Kotlin -->
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
+         width="40" height="40" alt="Kotlin" title="Kotlin" />
+    <br/>
+    <span style="font-weight:bold;
+                 background: linear-gradient(90deg, #7f53ac, #647dee);
+                 -webkit-background-clip: text;
+                 color: transparent;">
+      Kotlin
+    </span>
+  </td>
+
+  <!-- Tailwind CSS -->
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+         width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+    <br/>
+    <span style="font-weight:bold;
+                 background: linear-gradient(90deg, #06b6d4, #7c3aed);
+                 -webkit-background-clip: text;
+                 color: transparent;">
+      Tailwind
+    </span>
+  </td>
+
+  <!-- Sass -->
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+         width="40" height="40" alt="Sass" title="Sass" />
+    <br/>
+    <span style="font-weight:bold;
+                 background: linear-gradient(90deg, #f46b9b, #a12d6b);
+                 -webkit-background-clip: text;
+                 color: transparent;">
+      Sass
+    </span>
+  </td>
+
+  <!-- React -->
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+         width="40" height="40" alt="React" title="React" />
+    <br/>
+    <span style="font-weight:bold;
+                 background: linear-gradient(90deg, #61dafb, #0ea5e9);
+                 -webkit-background-clip: text;
+                 color: transparent;">
+      React
+    </span>
+  </td>
+
+  <!-- TypeScript -->
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+         width="40" height="40" alt="TypeScript" title="TypeScript" />
+    <br/>
+    <span style="font-weight:bold;
+                 background: linear-gradient(90deg, #007acc, #2b79c2);
+                 -webkit-background-clip: text;
+                 color: transparent;">
+      TypeScript
+    </span>
+  </td>
+</tr>
+
 </table>
 
 ---
