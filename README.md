@@ -36,66 +36,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/><br/>
       <span style="font-weight:bold; background: linear-gradient(90deg, #563d7c, #6f42c1); -webkit-background-clip: text; color: transparent;">Bootstrap</span>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #8993be, #4f5b93); -webkit-background-clip: text; color: transparent;">PHP</span>
-    </td>
-    <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/><br/>
-  <span style="font-weight:bold; background: linear-gradient(90deg, #9b4f96, #68217a); -webkit-background-clip: text; color: transparent;">C#</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #02569B, #44D1FD); -webkit-background-clip: text; color: transparent;">Flutter</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #00c4b3, #0288d1); -webkit-background-clip: text; color: transparent;">Dart</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #f44336, #e57373); -webkit-background-clip: text; color: transparent;">Java</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #306998, #4B8BBE); -webkit-background-clip: text; color: transparent;">Python</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" height="40" alt="SQL Server"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #cc0000, #990000); -webkit-background-clip: text; color: transparent;">SQL Server</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #00758F, #00B3B3); -webkit-background-clip: text; color: transparent;">MySQL</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #333, #6e5494); -webkit-background-clip: text; color: transparent;">GitHub</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #f34f29, #e44d26); -webkit-background-clip: text; color: transparent;">Git</span>
-    </td>
-  </tr>
-  <tr>
-  <!-- Kotlin -->
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
-         width="40" height="40" alt="Kotlin" title="Kotlin" />
-    <br/>
-    <span style="font-weight:bold;
-                 background: linear-gradient(90deg, #7f53ac, #647dee);
-                 -webkit-background-clip: text;
-                 color: transparent;">
-      Kotlin
-    </span>
-  </td>
-
-  <!-- Tailwind CSS -->
+     <!-- Tailwind CSS -->
   <td align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
          width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
@@ -107,7 +48,7 @@
       Tailwind
     </span>
   </td>
-
+  </tr>
   <!-- Sass -->
   <td align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
@@ -147,7 +88,63 @@
     </span>
   </td>
 </tr>
-
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/><br/>
+      <span style="font-weight:bold; background: linear-gradient(90deg, #8993be, #4f5b93); -webkit-background-clip: text; color: transparent;">PHP</span>
+    </td>
+    <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/><br/>
+  <span style="font-weight:bold; background: linear-gradient(90deg, #9b4f96, #68217a); -webkit-background-clip: text; color: transparent;">C#</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/><br/>
+      <span style="font-weight:bold; background: linear-gradient(90deg, #02569B, #44D1FD); -webkit-background-clip: text; color: transparent;">Flutter</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/><br/>
+      <span style="font-weight:bold; background: linear-gradient(90deg, #00c4b3, #0288d1); -webkit-background-clip: text; color: transparent;">Dart</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/>
+      <span style="font-weight:bold; background: linear-gradient(90deg, #f44336, #e57373); -webkit-background-clip: text; color: transparent;">Java</span>
+    </td>
+     <!-- Kotlin -->
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
+         width="40" height="40" alt="Kotlin" title="Kotlin" />
+    <br/>
+    <span style="font-weight:bold;
+                 background: linear-gradient(90deg, #7f53ac, #647dee);
+                 -webkit-background-clip: text;
+                 color: transparent;">
+      Kotlin
+    </span>
+  </td> 
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>
+      <span style="font-weight:bold; background: linear-gradient(90deg, #306998, #4B8BBE); -webkit-background-clip: text; color: transparent;">Python</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" height="40" alt="SQL Server"/><br/>
+      <span style="font-weight:bold; background: linear-gradient(90deg, #cc0000, #990000); -webkit-background-clip: text; color: transparent;">SQL Server</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/>
+      <span style="font-weight:bold; background: linear-gradient(90deg, #00758F, #00B3B3); -webkit-background-clip: text; color: transparent;">MySQL</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br/>
+      <span style="font-weight:bold; background: linear-gradient(90deg, #333, #6e5494); -webkit-background-clip: text; color: transparent;">GitHub</span>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>
+      <span style="font-weight:bold; background: linear-gradient(90deg, #f34f29, #e44d26); -webkit-background-clip: text; color: transparent;">Git</span>
+    </td>
+  </tr>
+  <tr>
 </table>
 
 ---
