@@ -1,7 +1,7 @@
 # 👩‍💻 Rowida Hussein Mahmoud  
 
 <p align="center">
-  <img src="./a_wide_dark_themed_developer_portfolio_banner_r.png" alt="Rowida Banner" />
+  <img src="./banner.png" alt="Rowida Banner" />
 </p>
 
 <p align="center">
