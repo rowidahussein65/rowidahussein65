@@ -1,7 +1,7 @@
 # 👩‍💻 Rowida Hussein Mahmoud  
 
 <p align="center">
-  <img src="banner.png" alt="Rowida Banner" />
+  <img src="./a_wide_dark_themed_developer_portfolio_banner_r.png" alt="Rowida Banner" />
 </p>
 
 <p align="center">
@@ -15,15 +15,15 @@
 Business Information Systems (BIS) graduate passionate about Front-End Development and UI Engineering.
 
 - 🎓 GPA: **3.90 / 4.00**
-- ⚛️ React.js Developer  
-- 🎯 Focus: Clean UI, Performance, Scalable Apps  
+- ⚛️ React.js Front-End Developer  
+- 🎯 Focused on clean, scalable UI development  
 - 🚀 Passionate about building real-world products  
 
 ---
 
 ## 🧠 Tech Stack
 
-**Front-End:** React.js • JavaScript • HTML • CSS • Bootstrap  
+**Front-End:** React.js • JavaScript • HTML • CSS • Bootstrap • React Bootstrap  
 **Tools:** Git • GitHub • Figma • VS Code • Postman  
 **Backend Basics:** REST APIs • Firebase • SQL  
 
@@ -31,10 +31,29 @@ Business Information Systems (BIS) graduate passionate about Front-End Developme
 
 ## 💼 Experience
 
-- 🚀 NTI Front-End Developer Intern  
-- 🇪🇬 DEPI Front-End Track  
-- 💻 Freelance Web Developer  
-- 🏢 Code Alpha Internship  
+### 🚀 NTI – Front-End Developer Intern (2025)
+- Built responsive web applications using HTML, CSS, JavaScript, Bootstrap  
+- Developed real-world projects  
+- Achieved **100% evaluation score**
+
+---
+
+### 🇪🇬 DEPI – Front-End Development Track (2025)
+- Learned React fundamentals and modern workflows  
+- Worked in Agile team environment  
+- Built interactive UI projects  
+
+---
+
+### 💻 Freelance Front-End Developer (2025)
+- Delivered responsive websites for clients  
+- Transformed UI designs into functional applications  
+
+---
+
+### 🏢 Code Alpha Internship (2025)
+- Developed UI components and web pages  
+- Strengthened core Front-End skills  
 
 ---
 
@@ -42,32 +61,28 @@ Business Information Systems (BIS) graduate passionate about Front-End Developme
 
 ### ♻️ Phoenix — Sustainability Platform (React.js)
 
-- Built with React + Vite  
-- Reusable UI components  
-- API integration  
-- Focus on UX & responsiveness  
+- Built using React.js + Vite  
+- Developed reusable UI components  
+- Integrated APIs  
+- Focused on UX and responsiveness  
 
-🏆 Distinguished graduation project
+🏆 Selected as a distinguished graduation project
 
 ---
 
 ## 📌 Featured Projects
 
-<p align="center">
+### 🎵 Music Web App
+- React.js + Deezer API  
+- Search & filter functionality  
 
-<a href="https://github.com/rowidahussein65">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rowidahussein65&repo=music-website&theme=tokyonight" />
-</a>
+### 🛒 E-Commerce Website
+- Responsive product UI  
+- Clean layout and design  
 
-<a href="https://github.com/rowidahussein65">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rowidahussein65&repo=ecommerce-website&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/rowidahussein65">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rowidahussein65&repo=fashion-website&theme=tokyonight" />
-</a>
-
-</p>
+### 👗 Fashion Website
+- Modern UI design  
+- Mobile-first responsive layout  
 
 ---
 
