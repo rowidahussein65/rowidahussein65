@@ -1,187 +1,229 @@
-<h1 align="center">Hi 👋, I’m Rowida Hussein</h1>
-<h3 align="center">Web Developer | Front-End Enthusiast | JavaScript Lover</h3>
+# 👩‍💻 Rowida Hussein Mahmoud
 
-- 👀 I’m interested in **Web Development, Frontend Design, and JavaScript**
-- 🌱 I’m currently learning **advanced JavaScript, Bootstrap**
-- 💞️ I’m looking to collaborate on **creative and impactful web projects**, especially in healthcare and self-development
-- 📫 How to reach me: **rowidahussein@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/rowida-hussein-23032004ro](https://www.linkedin.com/in/rowida-hussein-23032004ro)
-- 🌐 <strong>Portfolio:</strong> <a href="https://rowidahussein65.github.io/Update_myPortfolio/">rowidahussein65.github.io/Update_myPortfolio</a>
-- 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: **I enjoy solving UI challenges and turning complex ideas into elegant web designs!**
-
----
-
-### 🛠️ Languages and Tools:
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #ff512f, #dd2476); -webkit-background-clip: text; color: transparent;">HTML5</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #2193b0, #6dd5ed); -webkit-background-clip: text; color: transparent;">CSS3</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #f7971e, #ffd200); -webkit-background-clip: text; color: transparent;">JavaScript</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40" alt="jQuery"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #0769ad, #45b6fe); -webkit-background-clip: text; color: transparent;">jQuery</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #563d7c, #6f42c1); -webkit-background-clip: text; color: transparent;">Bootstrap</span>
-    </td>
-     <!-- Tailwind CSS -->
-  <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #38bdf8, #0ea5e9); -webkit-background-clip: text; color: transparent;">Tailwind CSS</span>
-    </td>
-  </tr>
-  <!-- Sass -->
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-         width="40" height="40" alt="Sass" title="Sass" />
-    <br/>
-    <span style="font-weight:bold;
-                 background: linear-gradient(90deg, #f46b9b, #a12d6b);
-                 -webkit-background-clip: text;
-                 color: transparent;">
-      Sass
-    </span>
-  </td>
-
-  <!-- React -->
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-         width="40" height="40" alt="React" title="React" />
-    <br/>
-    <span style="font-weight:bold;
-                 background: linear-gradient(90deg, #61dafb, #0ea5e9);
-                 -webkit-background-clip: text;
-                 color: transparent;">
-      React
-    </span>
-  </td>
-
-  <!-- TypeScript -->
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-         width="40" height="40" alt="TypeScript" title="TypeScript" />
-    <br/>
-    <span style="font-weight:bold;
-                 background: linear-gradient(90deg, #007acc, #2b79c2);
-                 -webkit-background-clip: text;
-                 color: transparent;">
-      TypeScript
-    </span>
-  </td>
-</tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #8993be, #4f5b93); -webkit-background-clip: text; color: transparent;">PHP</span>
-    </td>
-    <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/><br/>
-  <span style="font-weight:bold; background: linear-gradient(90deg, #9b4f96, #68217a); -webkit-background-clip: text; color: transparent;">C#</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #02569B, #44D1FD); -webkit-background-clip: text; color: transparent;">Flutter</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #00c4b3, #0288d1); -webkit-background-clip: text; color: transparent;">Dart</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #f44336, #e57373); -webkit-background-clip: text; color: transparent;">Java</span>
-    </td>
-     <!-- Kotlin -->
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
-         width="40" height="40" alt="Kotlin" title="Kotlin" />
-    <br/>
-    <span style="font-weight:bold;
-                 background: linear-gradient(90deg, #7f53ac, #647dee);
-                 -webkit-background-clip: text;
-                 color: transparent;">
-      Kotlin
-    </span>
-  </td> 
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #306998, #4B8BBE); -webkit-background-clip: text; color: transparent;">Python</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" height="40" alt="SQL Server"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #cc0000, #990000); -webkit-background-clip: text; color: transparent;">SQL Server</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #00758F, #00B3B3); -webkit-background-clip: text; color: transparent;">MySQL</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #333, #6e5494); -webkit-background-clip: text; color: transparent;">GitHub</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>
-      <span style="font-weight:bold; background: linear-gradient(90deg, #f34f29, #e44d26); -webkit-background-clip: text; color: transparent;">Git</span>
-    </td>
-  </tr>
-  <tr>
-</table>
-
----
-
-### 📊 GitHub Stats:
+## Junior React.js Front-End Developer
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rowidahussein65&show_icons=true&theme=default" alt="Rowida's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowidahussein65&layout=compact" alt="Rowida's Top Languages" />
-</p>
-
----
----
-
-### 📈 GitHub Activity Overview
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/rowidahussein65" alt="GitHub Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rowidahussein65&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowidahussein65&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rowidahussein65" />
+  Building responsive, user-centered web applications with modern Front-End technologies.
 </p>
 
 ---
 
+## 🚀 About Me
 
-### 🔗 Connect with me:
+I am a **Business Information Systems (BIS) graduate** and a passionate **Junior React.js Front-End Developer** with hands-on experience in building responsive and interactive web applications.
 
-- 📧 Email: **rowidahussein@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/rowida-hussein-23032004ro](https://www.linkedin.com/in/rowida-hussein-23032004ro)
-- 🐙 GitHub: [github.com/rowidahussein65](https://github.com/rowidahussein65)
+Throughout my four years of university, I developed strong skills in **Front-End Development, UI Design, Software Engineering concepts, and modern web technologies** through internships, freelance projects, graduation projects, and intensive technical training.
+
+I enjoy transforming ideas into clean, scalable, and user-friendly digital experiences while continuously improving my technical skills.
+
+🎓 **Bachelor of Business Information Systems (BIS)**  
+🏫 Capital University (Formerly Helwan University)  
+⭐ GPA: **3.90 / 4.00 — Excellent**
 
 ---
 
-> 💡 *“Passionate about building user-friendly designs and learning new technologies to create meaningful digital experiences.”*
+# 💻 Technical Skills
+
+## Front-End Development
+- React.js
+- React Bootstrap
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Bootstrap
+- jQuery
+- Responsive Web Design
+- UI Component Development
+- API Integration
+
+## Programming Languages
+- Java
+- Python
+- Dart
+- Kotlin
+
+## Database & Backend Basics
+- REST APIs
+- SQL
+- MySQL
+- MongoDB
+- Firebase
+
+## Tools & Technologies
+- Git & GitHub
+- VS Code
+- Figma
+- Jira
+- Android Studio
+- Power BI
+
+## Software Engineering
+- Object-Oriented Programming (OOP)
+- UML
+- ERD
+- Agile Methodology
+- Version Control
+
+---
+
+# 💼 Experience & Training
+
+## Front-End Developer Intern — NTI
+**2025**
+
+- Completed intensive Front-End Development training.
+- Worked with HTML5, CSS3, JavaScript, Bootstrap, and responsive layouts.
+- Developed practical web projects.
+- Achieved **100% evaluation score** in the graduation project.
+
+---
+
+## Front-End Developer Trainee — Digital Egypt Pioneers Initiative (DEPI)
+**2025**
+
+- Completed a six-month Front-End Development track.
+- Studied JavaScript, Bootstrap, React fundamentals, and development workflows.
+- Applied modern software development practices.
+
+---
+
+## Freelance Front-End Developer
+**2025**
+
+- Developed responsive websites based on client requirements.
+- Built interactive user interfaces using HTML, CSS, JavaScript, and Bootstrap.
+- Managed project requirements and delivered Front-End solutions.
+
+---
+
+## Front-End Developer Intern — Code Alpha
+**2025**
+
+- Completed practical Front-End development tasks.
+- Built web interfaces using HTML, CSS, JavaScript, and Bootstrap.
+- Received a certificate and recommendation letter.
+
+---
+
+# 🌱 Graduation Project
+
+## Phoenix — Smart Sustainability Platform
+
+**React.js Front-End Developer**
+
+Phoenix is a sustainability-focused super platform that encourages reuse and supports eco-friendly services through a digital ecosystem.
+
+### My Contributions:
+- Developed responsive interfaces using:
+  - React.js
+  - Vite
+  - React Bootstrap
+
+- Built reusable UI components.
+- Improved user experience through clean and scalable Front-End architecture.
+- Integrated Front-End features with APIs.
+- Contributed to a platform supporting sustainability and circular economy concepts.
+
+🏆 Selected among the distinguished graduation projects presented by the faculty.
+
+---
+
+# 📌 Featured Projects
+
+## 🎵 My Music Website
+
+**Technologies:**
+HTML5, CSS3, JavaScript, API Integration
+
+- Built a responsive music web application.
+- Integrated Deezer API for dynamic music data.
+- Implemented search and filtering features.
+
+---
+
+## 🛒 Hoodies E-Commerce Website
+
+**Technologies:**
+HTML5, CSS3, JavaScript
+
+- Developed an interactive e-commerce website.
+- Created organized product layouts.
+- Focused on usability and responsive design.
+
+---
+
+## 👗 Fashion Website
+
+**Technologies:**
+HTML5, CSS3, JavaScript
+
+- Designed and developed a responsive fashion showcase website.
+- Applied clean UI structure and responsive layouts.
+
+---
+
+# 📜 Certifications & Training
+
+## Technical Training
+- NTI Front-End Development Training (2025)
+- ITI Front-End Development Intensive Training (2025)
+- DEPI Front-End Development Track (2025)
+- DEPI Mobile Application Development Track — Flutter & Dart (2024)
+
+## Business & Professional Development
+- SAS Data Literacy Certifications
+- CFI Introduction to Banking
+- EBI Financial Education Programs
+- DEPI Business English & Career Readiness
+
+## AI & Sustainability
+- SAS Responsible Innovation and Trustworthy AI
+- LinkedIn Learning Sustainability Foundations
+- AI Intersects with Sustainability and Business
+
+---
+
+# 🏆 Achievements
+
+- Graduated with **GPA 3.90 / 4.00 — Excellent**.
+- Achieved **100% evaluation score** in NTI graduation project.
+- Phoenix graduation project selected among distinguished graduation projects.
+- Delivered paid Front-End development services through freelance projects.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rowidahussein65&show_icons=true&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🔗 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rowida-hussein-23032004ro/">
+LinkedIn
+</a>
+
+&nbsp; | &nbsp;
+
+<a href="https://github.com/rowidahussein65">
+GitHub
+</a>
+
+&nbsp; | &nbsp;
+
+<a href="https://rowidahussein65.github.io/Update_myPortfolio/">
+Portfolio
+</a>
+
+</p>
+
+---
+
+⭐ Thank you for visiting my profile!
